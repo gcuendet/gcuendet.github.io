@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-![LinkedIn](/resources/images/Logo-2C-21px-R.png) Check out my
+![LinkedIn]({{site.url}}/resources/images/Logo-2C-21px-R.png) Check out my
 [LinkedIn profile](https://ch.linkedin.com/in/gcuendet)
 
 # Curriculum Vitae
