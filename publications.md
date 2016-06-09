@@ -3,6 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+Check out my [Google scholar profile][google_scholar].
+
 ## Refereed journal publications
 
 * __G. L. Cuendet__, P. Schoettker, A. Yüce, M. Sorci, H. Gao, C. Perruchoud and J.-P. Thiran.
@@ -30,3 +33,5 @@ Proceedings of the Seventh Alpine Brain Imaging Meeting, p. 65, 2012.
 _Difficult intubation or ventilation prediction system._
 Patent pending at the European Patent Office, October 2013.\\
 Application number: WO2015052683 A1
+
+[google_scholar]: https://scholar.google.ch/citations?user=WJB6VGIAAAAJ
