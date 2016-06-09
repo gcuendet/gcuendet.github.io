@@ -16,5 +16,11 @@ url: "http://gcuendet.github.io" # the base hostname & protocol for your site
 #twitter_username: 
 github_username:  gcuendet
 
+# Handling reading
+exclude:      [README.md]
+keep_files:   []
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 # Build settings
 markdown: kramdown
