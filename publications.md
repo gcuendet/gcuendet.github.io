@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
 ## Refereed journal publications
 	
 	- G. L. Cuendet, P. Schoettker, A. Yüce, M. Sorci, H. Gao, C. Perruchoud and
