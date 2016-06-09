@@ -10,6 +10,7 @@ Image analysis, image processing, pattern recognition, computer vision, machine
 learning, artificial intelligence, 2D/3D face models, biomedical engineering
 
 ## Education
+
 ### Ph.D., Electrical Engineering, expected spring 2017
 Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 
