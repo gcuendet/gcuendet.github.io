@@ -12,7 +12,7 @@ Check out my [Google scholar profile][google_scholar].
 * G. L. Cuendet, P. Schoettker, A. Yüce, M. Sorci, H. Gao, C. Perruchoud and J.-P. Thiran.
 __Facial image analysis for fully automatic prediction of difficult endotracheal intubation.__
 IEEE Transactions on Biomedical Engineering, vol. 63, pp. 328-339, Feb. 2016\\
-doi: 10.1109/TBME.2015.2457032\\
+<i class="ai ai-doi"></i> 10.1109/TBME.2015.2457032\\
 [\[preprint\]](https://infoscience.epfl.ch/record/209965/files/TBME-preprint-infoscience.pdf)
 [\[official version\]](http://dx.doi.org/10.1109/TBME.2015.2457032)
 
