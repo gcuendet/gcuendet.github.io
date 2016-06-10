@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Check out my [Google scholar profile][google_scholar].
+{% include icon-scholar.html %} Check out my [Google scholar profile][google_scholar].
 
 ## Refereed journal publications
 

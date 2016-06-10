@@ -8,6 +8,10 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+h3 {
+    clear:left;
+}
+
 
 
 /**
@@ -45,6 +49,9 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
 }
 
 
