@@ -6,8 +6,8 @@ permalink: /cv/
 
 {::comment}![LinkedIn]({{site.url}}/resources/images/Logo-2C-21px-R.png){:/comment}
 <a href="https://www.linkedin.com/in/gcuendet"><i class="fa fa-linkedin-square fa-3x"></i></a>
-Check out my [LinkedIn profile](https://ch.linkedin.com/in/gcuendet)
-or download the pdf version
+Check out my [LinkedIn profile](https://ch.linkedin.com/in/gcuendet)...\\
+... or download the pdf version
 <a href="{{site.url}}/resources/docs/gcuendet_cv.pdf"><i class="fa fa-file-pdf-o fa-3x"></i></a>
 
 
