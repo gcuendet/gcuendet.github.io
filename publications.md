@@ -4,7 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-{% include icon-scholar.html %} Check out my [Google scholar profile][google_scholar].
+<a href="https://scholar.google.ch/citations?user=WJB6VGIAAAAJ"><i class="ai ai-google-scholar ai-3x"></i></a>
+Check out my [Google scholar profile][google_scholar].
 
 ## Refereed journal publications
 
