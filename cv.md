@@ -12,6 +12,8 @@ permalink: /cv/
 ## Qualification and interests
 Image analysis, image processing, pattern recognition, computer vision, machine learning, artificial intelligence, 2D/3D face models, biomedical engineering
 
+---
+
 ## Education
 
 ### Ph.D., Electrical Engineering, expected spring 2017
@@ -28,11 +30,9 @@ Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 
 - Thesis topic: Difficult Intubation Assessment from Video
 
+---
+
 ## Professional experience
 
-
-|Qualification   | Image analysis, image processing, pattern recognition,      |                     |
-|and interests   | computer vision, machine learning, artificial intelligence, |                     |
-|                | 2D/3D face models, biomedical engineering                   |					 |
-|------------------------------------------------------------------------------------------------------
-| Education      | Ph.D., Electrical Engineering, 							   | expected spring 2017|
+### Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+- _Research assistant_, September 2012 to present
