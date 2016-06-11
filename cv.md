@@ -24,31 +24,33 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland _expected Spring 2017_{: style="float: right"}
 
 - Thesis topic: Facial Images Analysis Applications in Medical Domains
-- Adviser: Prof. Jean-Philippe Thiran
+- Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]
 
 ### M.S., Electrical Engineering
 Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland _July 2012_{: style="float: right"}
 
 - Area of study: Major in _Information Technologies_ and minor in _biomedical technologies_
-- Thesis topic: Difficult Intubation Assessment from Video
 - GPA: 5.56 (6.0 scale)
+
+- Thesis topic: Difficult Intubation Assessment from Video
+- Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]
 
 ---
 
 ## <i class="fa fa-wrench"></i> Professional experience
 
-### EPFL, Lausanne, Switzerland
+### [EPFL][LTS5], Lausanne, Switzerland
 - **Research assistant** _September 2012 to present_{: style="float: right"}
 	+ Research topic in Computer Vision with application to 2D and 3D face analysis and modeling
 	+ Supervision of graduate and undergraduate students in electrical engineering and computer science in projects related to facial images analysis.
 - **Teaching assistant** _September 2008 to June 2011_{: style="float: right"}
 	+ Teaching assistant for the courses and labs: Introduction to electrical engineering, Measurement Systems, Programming (C++)
 
-### IBM Research, Zurich, Switzerland
+### [IBM Research][ZRL], Zurich, Switzerland
 - **Research intern** _September 2015 to February 2016_{: style="float: right"}
 	+ Development of a C++ framework using image processing and machine learning techniques to automatically extract numerical data from scientific charts images.
 
-### ABB, Corporate Research Center, Bangalore, India
+### [ABB][ABB], Corporate Research Center, Bangalore, India
 - **Intern** _July 2010 to September 2010_{: style="float: right"}
 	+ Worked on Real-time simulation of electrical systems
 	+ Performed simulations and explored advanced concepts of C++ (expression templates and template meta-programming) to reduce the use of big temporary objects at execution time in order to achieve real-time performances.
@@ -76,8 +78,17 @@ MATLAB, Bash, TEX (LATEX, BIBTEX)
 Conservatoire de Fribourg, Switzerland
 
 - Chamber music _2009 to present_{: style="float: right"}
-	+ Violinist of the "Chromatique" piano trio. We perform public concerts in the french speaking part of Switzerland, playing the classical and romantic repertoire.
-	+ Chamber music master classes in Blonay with amongst others: Paul Cocker, Joel Marosi or the Trio Lenitas.
-- Orchestra musician (OSUL) _2012 to present_{: style="float: right"}
-	+ Violinist in the Lausanne symphonic university orchestra. The orchestra gives 3 concerts per year and plays the romantic and modern repertoire for large symphonic orchestra.
+	+ Violinist of the ["Chromatique" piano trio][Chromatique]. We perform public concerts in the french speaking part of Switzerland, playing the classical and romantic repertoire.
+	+ Chamber music master classes in Blonay with amongst others: [Paul Cocker][PaulCocker], Joel Marosi or the [Trio Lenitas][Lenitas].
+- Orchestra musician _2012 to present_{: style="float: right"}
+	+ Violinist in the [Lausanne symphonic university orchestra][OSUL]. The orchestra gives 3 concerts per year and plays the romantic and modern repertoire for large symphonic orchestra.
 }
+
+[J.-Ph.]: http://lts5www.epfl.ch/thiran.html
+[LTS5]: http://lts5www.epfl.ch
+[ZRL]: http://www.research.ibm.com/labs/zurich/
+[ABB]: http://new.abb.com/about/technology/corporate-research-centers/corporate-research-center-india
+[Chromatique]: https://www.facebook.com/trio.chromatique/
+[PaulCocker]: https://fr.wikipedia.org/wiki/Paul_Coker
+[Lenitas]: http://www.triolenitas.com
+[OSUL]: http://www2.unil.ch/osul/
