@@ -11,8 +11,6 @@ Check out my [LinkedIn profile](https://ch.linkedin.com/in/gcuendet)...\\
 <a href="{{site.url}}/resources/docs/gcuendet_cv.pdf"><i class="fa fa-file-pdf-o fa-3x"></i></a>
 
 
-# Curriculum Vitae
-
 ## Qualification and interests
 Image analysis, image processing, pattern recognition, computer vision, machine learning, artificial intelligence, 2D/3D face models, biomedical engineering
 
@@ -59,7 +57,7 @@ Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland _July 2012_{: sty
 
 ## <i class="fa fa-gears"></i> Skills
 
-### <i class="fa fa-laptop"></i> Computer programming 
+### <i class="fa fa-laptop"></i> Computer programming
 C, C++, CMake, OpenCV library, Python, Scikit-learn and NumPy libraries,
 MATLAB, Bash, TEX (LATEX, BIBTEX)
 
