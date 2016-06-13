@@ -5,10 +5,10 @@ permalink: /cv/
 ---
 
 {::comment}![LinkedIn]({{site.url}}/resources/images/Logo-2C-21px-R.png){:/comment}
-<a href="https://www.linkedin.com/in/gcuendet"><i class="fa fa-linkedin-square fa-3x"></i></a>
-Check out my [LinkedIn profile](https://ch.linkedin.com/in/gcuendet)...\\
+<a href="https://www.linkedin.com/in/gcuendet" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>
+Check out my <a href="https://ch.linkedin.com/in/gcuendet" target="_blank">LinkedIn profile!</a>...\\
 ... or download the pdf version
-<a href="{{site.url}}/resources/docs/gcuendet_cv.pdf"><i class="fa fa-file-pdf-o fa-3x"></i></a>
+<a href="{{site.url}}/resources/docs/gcuendet_cv.pdf" target="_blank"><i class="fa fa-file-pdf-o fa-3x"></i></a>
 
 
 ## Qualification and interests
@@ -22,7 +22,7 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland _expected Spring 2017_{: style="float: right"}
 
 - Thesis topic: Facial Images Analysis Applications in Medical Domains
-- Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]
+- Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]{:target="_blank"}
 
 ### M.S., Electrical Engineering
 Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland _July 2012_{: style="float: right"}
@@ -31,24 +31,24 @@ Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland _July 2012_{: sty
 - GPA: 5.56 (6.0 scale)
 
 - Thesis topic: Difficult Intubation Assessment from Video
-- Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]
+- Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]{:target="_blank"}
 
 ---
 
 ## <i class="fa fa-wrench"></i> Professional experience
 
-### [EPFL][LTS5], Lausanne, Switzerland
+### [EPFL][LTS5]{:target="_blank"}, Lausanne, Switzerland
 - **Research assistant** _September 2012 to present_{: style="float: right"}
 	+ Research topic in Computer Vision with application to 2D and 3D face analysis and modeling
 	+ Supervision of graduate and undergraduate students in electrical engineering and computer science in projects related to facial images analysis.
 - **Teaching assistant** _September 2008 to June 2011_{: style="float: right"}
 	+ Teaching assistant for the courses and labs: Introduction to electrical engineering, Measurement Systems, Programming (C++)
 
-### [IBM Research][ZRL], Zurich, Switzerland
+### [IBM Research][ZRL]{:target="_blank"}, Zurich, Switzerland
 - **Research intern** _September 2015 to February 2016_{: style="float: right"}
 	+ Development of a C++ framework using image processing and machine learning techniques to automatically extract numerical data from scientific charts images.
 
-### [ABB][ABB], Corporate Research Center, Bangalore, India
+### [ABB][ABB]{:target="_blank"}, Corporate Research Center, Bangalore, India
 - **Intern** _July 2010 to September 2010_{: style="float: right"}
 	+ Worked on Real-time simulation of electrical systems
 	+ Performed simulations and explored advanced concepts of C++ (expression templates and template meta-programming) to reduce the use of big temporary objects at execution time in order to achieve real-time performances.
@@ -76,10 +76,10 @@ MATLAB, Bash, TEX (LATEX, BIBTEX)
 Conservatoire de Fribourg, Switzerland
 
 - Chamber music _2009 to present_{: style="float: right"}
-	+ Violinist of the ["Chromatique" piano trio][Chromatique]. We perform public concerts in the french speaking part of Switzerland, playing the classical and romantic repertoire.
-	+ Chamber music master classes in Blonay with amongst others: [Paul Cocker][PaulCocker], Joel Marosi or the [Trio Lenitas][Lenitas].
+	+ Violinist of the ["Chromatique" piano trio][Chromatique]{:target="_blank"}. We perform public concerts in the french speaking part of Switzerland, playing the classical and romantic repertoire.
+	+ Chamber music master classes in Blonay with amongst others: [Paul Cocker][PaulCocker]{:target="_blank"}, Joel Marosi or the [Trio Lenitas][Lenitas]{:target="_blank"}.
 - Orchestra musician _2012 to present_{: style="float: right"}
-	+ Violinist in the [Lausanne symphonic university orchestra][OSUL]. The orchestra gives 3 concerts per year and plays the romantic and modern repertoire for large symphonic orchestra.
+	+ Violinist in the [Lausanne symphonic university orchestra][OSUL]{:target="_blank"}. The orchestra gives 3 concerts per year and plays the romantic and modern repertoire for large symphonic orchestra.
 }
 
 [J.-Ph.]: http://lts5www.epfl.ch/thiran.html

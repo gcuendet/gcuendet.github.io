@@ -1,23 +1,53 @@
 ---
 layout: default
 ---
+<!DOCTYPE html>
+<html>
 
-<div class="home">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <h1 class="page-heading">Posts</h1>
+  <title>About me</title>
+  <meta name="description" content="Find out more about me! On my personal website you will find my CV, list of peer-reviewed publications and links to my social media profiles.
+">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/academicons/css/academicons.min.css">
+  <link rel="canonical" href="http://gcuendet.github.io/">
+  <link rel="alternate" type="application/rss+xml" title="Gabriel Cuendet" href="http://gcuendet.github.io/feed.xml">
+</head>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <body>
+        <article class="post">
 
-</div>
+  <header class="post-header">
+    <h1 class="post-title">About me</h1>
+  </header>
+
+  <div class="post-content">
+    <p><img src="http://gcuendet.github.io/resources/images/Photo_big.jpg" alt="" height="300px" width="225px" /></p>
+
+<p>Welcome! I am a PhD student and research assistant in the <a href="http://lts5www.epfl.ch/" target="_blank">Signal Processing Lab (LTS5)</a> at <a href="http://www.epfl.ch/" target="_blank">Ecole Polytechnique Fédérale de Lausanne (EPFL)</a>.</p>
+
+<p>My main research interests include Computer Vision and Machine Learning and more specifically Facial Images Analysis.
+I am focusing on applications of automatic Face modelling for medical diagnosis.</p>
+
+<h4 id="trying-to-predict-difficult-intubation">Research topic: Prediction of difficult intubation</h3>
+
+<p>Among those applications I work on the prediction of difficult endotracheal intubation, a pre-operative assessment problem in anaesthesiology.
+The assessment is based on images and videos of the face of real patients. Fitting a face model on these images allows us to automatically extract specific morphological features of the patient.
+Using machine learning techniques, those features are used to provide the final assessment.</p>
+
+
+
+</article>
+
+      </div>
+
+  </body>
+
+</html>

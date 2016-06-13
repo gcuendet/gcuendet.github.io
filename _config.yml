@@ -10,10 +10,10 @@ title: Gabriel Cuendet
 email: gabriel.cuendet@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Find out more about me! On my personal website you will find my CV, list of
-  peer-reviewed publications and links to my social media profiles.  
+  peer-reviewed publications and links to my social media profiles.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gcuendet.github.io" # the base hostname & protocol for your site
-#twitter_username: 
+#twitter_username:
 github_username:  gcuendet
 linkedin_username: gcuendet
 
