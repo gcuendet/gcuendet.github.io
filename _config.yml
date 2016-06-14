@@ -16,6 +16,7 @@ url: "http://gcuendet.github.io" # the base hostname & protocol for your site
 #twitter_username:
 github_username:  gcuendet
 linkedin_username: gcuendet
+google_analytics: UA-79280933-1
 
 # Handling reading
 exclude:      [README.md]
