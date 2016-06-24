@@ -17,6 +17,14 @@ IEEE Transactions on Biomedical Engineering, vol. 63, pp. 328-339, Feb. 2016\\
 [\[preprint\]](https://infoscience.epfl.ch/record/209965/files/TBME-preprint-infoscience.pdf)
 [\[official version\]](http://dx.doi.org/10.1109/TBME.2015.2457032)
 
+* A. Yüce, H. Gao, G. L. Cuendet, J.-P. Thiran.
+__Action Units and Their Cross-Correlations for Prediction of Cognitive Load during Driving.__
+IEEE Transactions on Affective Computing, Jun. 2016\\
+<i class="ai ai-doi"></i> 10.1109/TBME.2015.2457032\\
+<i class="fa fa-file-pdf-o"></i>
+[\[preprint\]](https://infoscience.epfl.ch/record/214933/files/final_preprint.pdf)
+[\[official version\]](http://dx.doi.org/10.1109/TAFFC.2016.2584042)
+
 * P. Schoettker, G. L. Cuendet, J.-P. Thiran, M. Sorci, A. Yüce and C. Perruchoud.
 __Automatic Prediction of Difficult Intubation from Video.__
 European Journal of Anaesthesiology (EJA), p. 269, 2013\\
