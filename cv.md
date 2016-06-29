@@ -19,19 +19,22 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 ## <i class="fa fa-mortar-board"></i> Education
 
 ### Ph.D., Electrical Engineering
-Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland _expected Spring 2017_{: style="float: right"}
+[Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL], Switzerland _expected Spring 2017_{: style="float: right"}
 
 - Thesis topic: Facial Images Analysis Applications in Medical Domains
 - Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]{:target="_blank"}
 
 ### M.S., Electrical Engineering
-Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland _July 2012_{: style="float: right"}
+[Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL], Switzerland _July 2012_{: style="float: right"}
 
 - Area of study: Major in _Information Technologies_ and minor in _biomedical technologies_
 - GPA: 5.56 (6.0 scale)
 
 - Thesis topic: Difficult Intubation Assessment from Video
 - Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]{:target="_blank"}
+
+### SAE Diploma, Sound Engineering
+[SAE Institute of Technology][SAE], Geneva, Switzerland _January 2008_{: style="float: right"}
 
 ---
 
@@ -82,9 +85,11 @@ Conservatoire de Fribourg, Switzerland
 	+ Violinist in the [Lausanne symphonic university orchestra][OSUL]{:target="_blank"}. The orchestra gives 3 concerts per year and plays the romantic and modern repertoire for large symphonic orchestra.
 }
 
-[J.-Ph.]: http://lts5www.epfl.ch/thiran.html
-[LTS5]: http://lts5www.epfl.ch
-[ZRL]: http://www.research.ibm.com/labs/zurich/
+[EPFL]: https://www.epfl.ch
+[SAE]: https://www.sae.edu
+[J.-Ph.]: https://lts5www.epfl.ch/thiran.html
+[LTS5]: https://lts5www.epfl.ch
+[ZRL]: https://www.research.ibm.com/labs/zurich/
 [ABB]: http://new.abb.com/about/technology/corporate-research-centers/corporate-research-center-india
 [Chromatique]: https://www.facebook.com/trio.chromatique/
 [PaulCocker]: https://fr.wikipedia.org/wiki/Paul_Coker
