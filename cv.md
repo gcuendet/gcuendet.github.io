@@ -19,7 +19,7 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 ## <i class="fa fa-mortar-board"></i> Education
 
 ### Ph.D., Electrical Engineering
-[Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL], Switzerland _expected Spring 2017_{: style="float: right"}
+[Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL], Switzerland _expected Summer 2017_{: style="float: right"}
 
 - Thesis topic: Facial Images Analysis Applications in Medical Domains
 - Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]{:target="_blank"}
@@ -42,19 +42,27 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 
 ### [EPFL][LTS5]{:target="_blank"}, Lausanne, Switzerland
 - **Research assistant** _September 2012 to present_{: style="float: right"}
-	+ Research topic in Computer Vision with application to 2D and 3D face analysis and modeling
-	+ Supervision of graduate and undergraduate students in electrical engineering and computer science in projects related to facial images analysis.
+  + [Objective] Automatically predict difficulty of intubation and         develop a new 3D face model
+  + [Mission] Conduct research, collect data in hospitals, develop a C++ library for facial images analysis, record and align a 3D database of faces, supervise students in projects related to facial images analysis
+  + [Technologies] C++, Python, Face Alignment (AAM, CLM, SDM, LBF), Machine Learning, 3D Geometry, Spectral Mesh Processing, 3D Face Models
+  + [Results] EU Patent application, scientific publications
+
 - **Teaching assistant** _September 2008 to June 2011_{: style="float: right"}
 	+ Teaching assistant for the courses and labs: Introduction to electrical engineering, Measurement Systems, Programming (C++)
 
 ### [IBM Research][ZRL]{:target="_blank"}, Zurich, Switzerland
 - **Research intern** _September 2015 to February 2016_{: style="float: right"}
-	+ Development of a C++ framework using image processing and machine learning techniques to automatically extract numerical data from scientific charts images.
+  + [Objective] Automatically extract numerical data from scientific charts images
+  + [Mission] Conduct research, collect and organize data, develop and test code, write a scientific article and a patent application
+  + [Technologies] C++, Python, Image Processing, Machine Learning, Markov Logic Network
+  + [Results] US Patent application, conference article submission, post-doc position opening to continue the project
 
 ### [ABB][ABB]{:target="_blank"}, Corporate Research Center, Bangalore, India
 - **Intern** _July 2010 to September 2010_{: style="float: right"}
-	+ Worked on Real-time simulation of electrical systems
-	+ Performed simulations and explored advanced concepts of C++ (expression templates and template meta-programming) to reduce the use of big temporary objects at execution time in order to achieve real-time performances.
+  + [Objective] Reduce the use of big temporary objects at execution time in order to achieve real-time simulation of electrical systems
+  + [Mission] Performed simulations and explored advanced concepts of C++
+  + [Technologies] C++, expression templates, template meta-programming
+  + [Results] Internship report containing preliminary results
 
 ---
 
