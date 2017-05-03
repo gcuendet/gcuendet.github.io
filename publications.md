@@ -44,6 +44,14 @@ ICPR International Workshop on Pattern Recognition for Healthcare Analytics, 201
 
 ## Patents
 
+* G. L. Cuendet, P. Staar, M. Gabrani and K. Bekas.
+__A method and a system to fully-automatically and quantitatively analyze technical diagrams.__
+Patent to be filed at the US Patent Office.
+<!--, May 2017.\\
+Application number: \\
+[\[Google patent\]](http://www.google.com/patents/)
+-->
+
 * P. Schoettker, G. L. Cuendet, C. Perruchoud, M. Sorci and J.-P. Thiran.
 __Difficult intubation or ventilation prediction system.__
 Patent pending at the European Patent Office, October 2013.\\
