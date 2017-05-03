@@ -9,6 +9,14 @@ Check out my [Google scholar profile][google_scholar].
 
 ## Refereed journal publications
 
+* G. L. Cuendet, C. Ecabert, M. Zimmermann, H. K. Ekenel and J.-P. Thiran.
+__3D Spectral Nonrigid Registration of Facial Expression Scans.__
+submitted ot IEEE Transactions on Visualization and Computer Graphics, April 2017\\
+<!--   <i class="ai ai-doi"></i> 10.1109/TBME.2015.2457032\\   -->
+<i class="fa fa-file-pdf-o"></i>
+[\[preprint\]](https://infoscience.epfl.ch/record/227521/files/article_submitted.pdf)
+<!--   [\[official version\]](http://dx.doi.org/10.1109/TBME.2015.2457032)   -->
+
 * G. L. Cuendet, P. Schoettker, A. Yüce, M. Sorci, H. Gao, C. Perruchoud and J.-P. Thiran.
 __Facial image analysis for fully automatic prediction of difficult endotracheal intubation.__
 IEEE Transactions on Biomedical Engineering, vol. 63, pp. 328-339, Feb. 2016\\
