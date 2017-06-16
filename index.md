@@ -8,8 +8,8 @@ layout: default
 
 I am a PhD student and research assistant in the [Signal Processing Lab (LTS5)][LTS5]{:target="_blank"} at [Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL]{:target="_blank"}.
 
-My main research interests include Computer Vision and Machine Learning and more specifically Facial Images Analysis.
-I am focusing on applications of 2D and 3D automatic face modelling for medical diagnosis.
+My main research interests include Computer Vision and Machine Learning and more specifically Facial Image Analysis.
+I am focusing on applications of 2D and 3D automatic face modeling for medical diagnosis.
 
 I am passionate about developing and implementing new methods and algorithms for computer vision and image analysis problems.
 In my free time I play the violin and enjoy chamber music sessions with friends.
