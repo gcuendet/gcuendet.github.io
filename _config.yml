@@ -19,7 +19,7 @@ linkedin_username: gcuendet
 google_analytics: UA-79280933-1
 
 # Handling reading
-exclude:      [README.md]
+exclude:      [README.md old_pages/projects.md]
 keep_files:   []
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
