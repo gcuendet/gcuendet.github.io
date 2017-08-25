@@ -9,10 +9,10 @@ Check out my [Google scholar profile][google_scholar].
 
 ## Thesis
 
-* G. L. Cuendet, J.-P. Thiran.
+* G. L. Cuendet.
 __Towards 3D facial morphometry: facial image analysis applications in
 anesthesiology and 3D spectral nonrigid registration.__
-PhD dissertation, Ecole Polytechnique F\'ed\'erale de Lausanne (EPFL),
+PhD dissertation, Ecole Polytechnique Fédérale de Lausanne (EPFL),
 n° 7936, 2017\\
 <i class ="ai ai-doi"></i> 10.5075/epfl-thesis-7936\\
 <i class="fa fa-file-pdf-o"></i>
