@@ -7,6 +7,17 @@ permalink: /publications/
 <a href="https://scholar.google.ch/citations?user=WJB6VGIAAAAJ"><i class="ai ai-google-scholar ai-3x"></i></a>
 Check out my [Google scholar profile][google_scholar].
 
+## Thesis
+
+* G. L. Cuendet, J.-P. Thiran.
+__Towards 3D facial morphometry: facial image analysis applications in
+anesthesiology and 3D spectral nonrigid registration.__
+PhD dissertation, Ecole Polytechnique F\'ed\'erale de Lausanne (EPFL),
+n° 7936, 2017\\
+<i class ="ai ai-doi"></i> 10.5075/epfl-thesis-7936\\
+<i class="fa fa-file-pdf-o"></i>
+[\[official version\]](https://infoscience.epfl.ch/record/230141/files/EPFL_TH7936.pdf)
+
 ## Refereed journal publications
 
 * G. L. Cuendet, C. Ecabert, M. Zimmermann, H. K. Ekenel and J.-P. Thiran.

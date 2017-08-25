@@ -19,9 +19,9 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 ## <i class="fa fa-mortar-board"></i> Education
 
 ### Ph.D., Electrical Engineering
-[Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL], Switzerland _expected Summer 2017_{: style="float: right"}
+[Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL], Switzerland _August 2017_{: style="float: right"}
 
-- Thesis topic: Facial Images Analysis Applications in Medical Domains
+- Thesis topic: Towards 3D facial morphometry: facial image analysis applications in anesthesiology and 3D spectral nonrigid registration
 - Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]{:target="_blank"}
 
 ### M.S., Electrical Engineering
@@ -41,8 +41,8 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 ## <i class="fa fa-wrench"></i> Professional experience
 
 ### [EPFL][LTS5]{:target="_blank"}, Lausanne, Switzerland
-- **Research assistant** _September 2012 to present_{: style="float: right"}
-  + [Objective] Automatically predict difficulty of intubation and         develop a new 3D face model
+- **Research assistant** _September 2012 to August 2017{: style="float: right"}
+  + [Objective] Automatically predict difficulty of intubation and develop a new 3D face model
   + [Mission] Conduct research, collect data in hospitals, develop a C++ library for facial images analysis, record and align a 3D database of faces, supervise students in projects related to facial images analysis
   + [Technologies] C++, Python, Face Alignment (AAM, CLM, SDM, LBF), Machine Learning, 3D Geometry, Spectral Mesh Processing, 3D Face Models
   + [Results] EU Patent application, scientific publications
