@@ -12,7 +12,7 @@ Check out my <a href="https://ch.linkedin.com/in/gcuendet" target="_blank">Linke
 
 
 ## Qualification and interests
-Image analysis, image processing, pattern recognition, computer vision, machine learning, artificial intelligence, 2D/3D face models, biomedical engineering
+Image analysis, image processing, pattern recognition, computer vision, machine learning, artificial intelligence, 2D/3D face models, photogrammetry, biomedical engineering
 
 ---
 
@@ -21,7 +21,7 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 ### Ph.D., Electrical Engineering
 [Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL], Switzerland _August 2017_{: style="float: right"}
 
-- Thesis topic: Towards 3D facial morphometry: facial image analysis applications in anesthesiology and 3D spectral nonrigid registration
+- [Thesis: Towards 3D facial morphometry: facial image analysis applications in anesthesiology and 3D spectral nonrigid registration][thesis_link]
 - Adviser: [Prof. Jean-Philippe Thiran][J.-Ph.]{:target="_blank"}
 
 ### M.S., Electrical Engineering
@@ -39,9 +39,26 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 ---
 
 ## <i class="fa fa-wrench"></i> Professional experience
+### [Pix4D][Pix4D]{:target="_blank"}, Lausanne, Switzerland
+- **Software developer (C++, Computer Vision)** _May 2018 till now_{: style="float: right"}
+  + [Objective] Develop drone photogrammetry software that enable professionals to process, visualize, assess and edit their maps and 3D models
+  + [Mission] Design and implement computer vision algorithms, refactor and
+  optimize existing code base and promote good software engineering
+  practices
+  + [Technologies] C++, Photogrammetry, Image Analysis, Machine Learning
+  + [Results]
+
+### [IBM Research][ZRL]{:target="_blank"}, Zurich, Switzerland
+- **Postdoctoral Researcher** _October 2017 to April 2018_{: style="float: right"}
+  + [Objective] Automatically extract knowledge from different types of  document
+  + [Mission] Conduct research in Image analysis and machine learning (e.g.
+  relational learning), develop and test production-ready code,
+  supervise PhD students and interns
+  + [Technologies] C++, Image analysis, Machine Learning
+  + [Results] Technology transfer to Watson Health
 
 ### [EPFL][LTS5]{:target="_blank"}, Lausanne, Switzerland
-- **Research assistant** _September 2012 to August 2017{: style="float: right"}
+- **Research assistant** _September 2012 to August 2017_{: style="float: right"}
   + [Objective] Automatically predict difficulty of intubation and develop a new 3D face model
   + [Mission] Conduct research, collect data in hospitals, develop a C++ library for facial images analysis, record and align a 3D database of faces, supervise students in projects related to facial images analysis
   + [Technologies] C++, Python, Face Alignment (AAM, CLM, SDM, LBF), Machine Learning, 3D Geometry, Spectral Mesh Processing, 3D Face Models
@@ -69,7 +86,7 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 ## <i class="fa fa-gears"></i> Skills
 
 ### <i class="fa fa-laptop"></i> Computer programming
-C, C++, CMake, OpenCV library, Python, Scikit-learn and NumPy libraries,
+C++ (> 10 years), CMake, OpenCV library, Python (> 5 years), Scikit-learn and NumPy libraries,
 MATLAB, Bash, TEX (LATEX, BIBTEX)
 
 ### <i class="fa fa-commenting-o"></i> Languages
@@ -96,6 +113,7 @@ Conservatoire de Fribourg, Switzerland
 [EPFL]: https://www.epfl.ch
 [SAE]: https://www.sae.edu
 [J.-Ph.]: https://lts5www.epfl.ch/thiran.html
+[thesis_link]: https://infoscience.epfl.ch/record/230141/files/EPFL_TH7936.pdf
 [LTS5]: https://lts5www.epfl.ch
 [ZRL]: https://www.research.ibm.com/labs/zurich/
 [ABB]: http://new.abb.com/about/technology/corporate-research-centers/corporate-research-center-india
