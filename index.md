@@ -6,10 +6,12 @@ layout: default
 
 ![][photo]{:height="300px",width="225px"}
 
-I am a PhD student and research assistant in the [Signal Processing Lab (LTS5)][LTS5]{:target="_blank"} at [Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL]{:target="_blank"}.
+I am a C++ software developer in Computer Vision at [Pix4D][http://www.pix4d.com].
+I obtained a PhD in Electrical engineering in the [Signal Processing Lab (LTS5)][LTS5]{:target="_blank"} at [Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL]{:target="_blank"}.
 
 My main research interests include Computer Vision and Machine Learning and more specifically Facial Image Analysis.
-I am focusing on applications of 2D and 3D automatic face modeling for medical diagnosis.
+In my thesis, I was focusing on applications of 2D and 3D automatic face modeling for medical diagnosis.
+Now, at Pix4D, I work on photogrammetry.
 
 I am passionate about developing and implementing new methods and algorithms for computer vision and image analysis problems.
 In my free time I play the violin and enjoy chamber music sessions with friends.
