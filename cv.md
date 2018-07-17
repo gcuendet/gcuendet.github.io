@@ -114,6 +114,7 @@ Conservatoire de Fribourg, Switzerland
 [SAE]: https://www.sae.edu
 [J.-Ph.]: https://lts5www.epfl.ch/thiran.html
 [thesis_link]: https://infoscience.epfl.ch/record/230141/files/EPFL_TH7936.pdf
+[Pix4D]: http://www.pix4d.com
 [LTS5]: https://lts5www.epfl.ch
 [ZRL]: https://www.research.ibm.com/labs/zurich/
 [ABB]: http://new.abb.com/about/technology/corporate-research-centers/corporate-research-center-india
