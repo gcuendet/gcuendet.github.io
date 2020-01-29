@@ -6,12 +6,15 @@ layout: default
 
 ![][photo]{:height="300px",width="225px"}
 
-I am a C++ software developer in Computer Vision at [Pix4D][http://www.pix4d.com].
+I am a senior R&D engineer in Computer Vision at [Pix4D](http://www.pix4d.com).
 I obtained a PhD in Electrical engineering in the [Signal Processing Lab (LTS5)][LTS5]{:target="_blank"} at [Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL]{:target="_blank"}.
 
 My main research interests include Computer Vision and Machine Learning and more specifically Facial Image Analysis.
 In my thesis, I was focusing on applications of 2D and 3D automatic face modeling for medical diagnosis.
-Now, at Pix4D, I work on photogrammetry.
+Now, at Pix4D, I develop core algorithms for a professional drone photogrammetry software suite.
+From non rigid surface alignement by optimizing low frequencies Fourier coefficients to filtering of point clouds 
+in the spectral domain, 3D geometry processing, and more specifically spectral methods, are at the core of
+what I am doing.
 
 I am passionate about developing and implementing new methods and algorithms for computer vision and image analysis problems.
 In my free time I play the violin and enjoy chamber music sessions with friends.

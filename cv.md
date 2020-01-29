@@ -12,7 +12,7 @@ Check out my <a href="https://ch.linkedin.com/in/gcuendet" target="_blank">Linke
 
 
 ## Qualification and interests
-Image analysis, image processing, pattern recognition, computer vision, machine learning, artificial intelligence, 2D/3D face models, photogrammetry, biomedical engineering
+Computer vision, image analysis, image processing, pattern recognition, machine learning, artificial intelligence, 2D/3D face models, photogrammetry, 3D geometry processing
 
 ---
 
@@ -40,13 +40,15 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 
 ## <i class="fa fa-wrench"></i> Professional experience
 ### [Pix4D][Pix4D]{:target="_blank"}, Lausanne, Switzerland
-- **Software developer (C++, Computer Vision)** _May 2018 till now_{: style="float: right"}
-  + [Objective] Develop drone photogrammetry software that enable professionals to process, visualize, assess and edit their maps and 3D models
-  + [Mission] Design and implement computer vision algorithms, refactor and
-  optimize existing code base and promote good software engineering
-  practices
-  + [Technologies] C++, Photogrammetry, Image Analysis, Machine Learning
-  + [Results]
+- **Senior R&D engineer** _January 2020 till now_{: style="float: right"}
+- **Software developer (C++, Computer Vision)** _May 2018 till December 2019_{: style="float: right"}
+  + [Objective] Develop core algorithms for a professional drone photogrammetry software suite
+  + [Mission] Design and implement computer vision algorithms, such as deep-learning based image segmentation, multiview stereo,
+3D mesh generation, or 3D point cloud filtering with spectral methods, refactor and optimize existing code base and promote
+good software engineering practices
+  + [Technologies] C++, Python, Photogrammetry, Computer Vision, Machine Learning, Deep Learning, CI/CD (Concourse)
+  + [Results] Adaptation of the main codebase to build on macOS (C++, CMake, Conan) enabling macOS support in all new products.
+Point cloud filtering algos and library, using a spectral method, integrated into one product.
 
 ### [IBM Research][ZRL]{:target="_blank"}, Zurich, Switzerland
 - **Postdoctoral Researcher** _October 2017 to April 2018_{: style="float: right"}
@@ -86,8 +88,8 @@ Image analysis, image processing, pattern recognition, computer vision, machine 
 ## <i class="fa fa-gears"></i> Skills
 
 ### <i class="fa fa-laptop"></i> Computer programming
-C++ (> 10 years), CMake, OpenCV library, Python (> 5 years), Scikit-learn and NumPy libraries,
-MATLAB, Bash, TEX (LATEX, BIBTEX)
+- C++ 11/14: 10y., main development language since 2013. Good knowledge of Boost, Eigen, OpenCV libraries, (modern) CMake, Conan package manager
+- Python: >5y. NumPy, Scipy, and Scikit-learn libraries
 
 ### <i class="fa fa-commenting-o"></i> Languages
 - French: mother tongue
@@ -106,7 +108,7 @@ Conservatoire de Fribourg, Switzerland
 - Chamber music _2009 to present_{: style="float: right"}
 	+ Violinist of the ["Chromatique" piano trio][Chromatique]{:target="_blank"}. We perform public concerts in the french speaking part of Switzerland, playing the classical and romantic repertoire.
 	+ Chamber music master classes in Blonay with amongst others: [Paul Cocker][PaulCocker]{:target="_blank"}, Joel Marosi or the [Trio Lenitas][Lenitas]{:target="_blank"}.
-- Orchestra musician _2012 to present_{: style="float: right"}
+- Orchestra musician _2012 to 2015_{: style="float: right"}
 	+ Violinist in the [Lausanne symphonic university orchestra][OSUL]{:target="_blank"}. The orchestra gives 3 concerts per year and plays the romantic and modern repertoire for large symphonic orchestra.
 }
 
