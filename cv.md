@@ -12,7 +12,7 @@ Check out my <a href="https://ch.linkedin.com/in/gcuendet" target="_blank">Linke
 
 
 ## Qualification and interests
-Computer vision, image analysis, image processing, pattern recognition, machine learning, artificial intelligence, 2D/3D face models, photogrammetry, 3D geometry processing
+Computer vision, machine learning, artificial intelligence, deep learning, image analysis, image processing, pattern recognition, 2D/3D face models, photogrammetry, 3D geometry processing
 
 ---
 
@@ -39,16 +39,23 @@ Computer vision, image analysis, image processing, pattern recognition, machine 
 ---
 
 ## <i class="fa fa-wrench"></i> Professional experience
+### [Cognex][Cognex]{:target="_blank"}, Fribourg, Switzerland
+- **Senior Software Engineer** _May 2020 till now_{: style="float: right"}
+  + [Objective] Design and implement modular libraries to be used within the Cognex Deep Learning products
+  + [Mission] Implement and optimize new features or algorithms in C++. Modularize and modernize the software stack. Port current functionalities for IoT or cloud services.
+  + [Technologies] C++, Python, Computer Vision, Machine Learning, Deep Learning, DevOps (TeamCity, Conan, Docker)
+
 ### [Pix4D][Pix4D]{:target="_blank"}, Lausanne, Switzerland
-- **Senior R&D engineer** _January 2020 till now_{: style="float: right"}
+- **Senior R&D engineer** _January 2020 to April 2020_{: style="float: right"}
 - **Software developer (C++, Computer Vision)** _May 2018 till December 2019_{: style="float: right"}
   + [Objective] Develop core algorithms for a professional drone photogrammetry software suite
   + [Mission] Design and implement computer vision algorithms, such as deep-learning based image segmentation, multiview stereo,
 3D mesh generation, or 3D point cloud filtering with spectral methods, refactor and optimize existing code base and promote
 good software engineering practices
-  + [Technologies] C++, Python, Photogrammetry, Computer Vision, Machine Learning, Deep Learning, CI/CD (Concourse)
+  + [Technologies] C++, Python, Photogrammetry, Computer Vision, Machine Learning, Deep Learning (PyTorch), CI/CD (Concourse)
   + [Results] Adaptation of the main codebase to build on macOS (C++, CMake, Conan) enabling macOS support in all new products.
 Point cloud filtering algos and library, using a spectral method, integrated into one product.
+Reimplementation of a multiview stereo pipeline leveraging Deep learning with PyTorch.
 
 ### [IBM Research][ZRL]{:target="_blank"}, Zurich, Switzerland
 - **Postdoctoral Researcher** _October 2017 to April 2018_{: style="float: right"}
@@ -89,7 +96,7 @@ Point cloud filtering algos and library, using a spectral method, integrated int
 
 ### <i class="fa fa-laptop"></i> Computer programming
 - C++ 11/14: 10y., main development language since 2013. Good knowledge of Boost, Eigen, OpenCV libraries, (modern) CMake, Conan package manager
-- Python: >5y. NumPy, Scipy, and Scikit-learn libraries
+- Python: >5y. NumPy, Scipy, PyTorch and Scikit-learn libraries
 
 ### <i class="fa fa-commenting-o"></i> Languages
 - French: mother tongue
@@ -116,6 +123,7 @@ Conservatoire de Fribourg, Switzerland
 [SAE]: https://www.sae.edu
 [J.-Ph.]: https://lts5www.epfl.ch/thiran.html
 [thesis_link]: https://infoscience.epfl.ch/record/230141/files/EPFL_TH7936.pdf
+[Cognex]: https://www.cognex.com
 [Pix4D]: http://www.pix4d.com
 [LTS5]: https://lts5www.epfl.ch
 [ZRL]: https://www.research.ibm.com/labs/zurich/
