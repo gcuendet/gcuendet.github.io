@@ -40,10 +40,12 @@ Computer vision, machine learning, artificial intelligence, deep learning, image
 
 ## <i class="fa fa-wrench"></i> Professional experience
 ### [Cognex][Cognex]{:target="_blank"}, Fribourg, Switzerland
-- **Senior Software Engineer** _May 2020 till now_{: style="float: right"}
-  + [Objective] Design and implement modular libraries to be used within the Cognex Deep Learning products
-  + [Mission] Implement and optimize new features or algorithms in C++. Modularize and modernize the software stack. Port current functionalities for IoT or cloud services.
-  + [Technologies] C++, Python, Computer Vision, Machine Learning, Deep Learning, DevOps (TeamCity, Conan, Docker)
+- **Principal Software Engineer** _August 2022 till now_{: style="float: right"}
+- **Senior Software Engineer (C++, Computer Vision)** _May 2020 to July 2022_{: style="float: right"}
+  + [Objective] Design, implement, test, document, and maintain modular libraries to be used within the Cognex products
+  + [Mission] Implement and optimize new features or algorithms in C++ for multiple platforms (Linux x86_64 or arm64, Windows), design and maintain software architecture and libraries' APIs, manage 3rd party dependencies, modularize and modernize the software stack
+  + [Technologies] C++, Python, Computer Vision, Deep Learning, DevOps (TeamCity CI, Conan, Docker)
+  + [Results] Libraries integrated into desktop, cloud, as well as embedded products. Open source contributions to Torch-TensorRT.
 
 ### [Pix4D][Pix4D]{:target="_blank"}, Lausanne, Switzerland
 - **Senior R&D engineer** _January 2020 to April 2020_{: style="float: right"}
@@ -69,7 +71,7 @@ Reimplementation of a multiview stereo pipeline leveraging Deep learning with Py
 ### [EPFL][LTS5]{:target="_blank"}, Lausanne, Switzerland
 - **Research assistant** _September 2012 to August 2017_{: style="float: right"}
   + [Objective] Automatically predict difficulty of intubation and develop a new 3D face model
-  + [Mission] Conduct research, collect data in hospitals, develop a C++ library for facial images analysis, record and align a 3D database of faces, supervise students in projects related to facial images analysis
+  + [Mission] Conduct research in collaboration with CHUV and nViso, collect data in hospitals, develop a C++ library for facial images analysis, record and align a 3D database of faces, supervise students in projects related to facial images analysis
   + [Technologies] C++, Python, Face Alignment (AAM, CLM, SDM, LBF), Machine Learning, 3D Geometry, Spectral Mesh Processing, 3D Face Models
   + [Results] EU Patent application, scientific publications
 
@@ -95,7 +97,7 @@ Reimplementation of a multiview stereo pipeline leveraging Deep learning with Py
 ## <i class="fa fa-gears"></i> Skills
 
 ### <i class="fa fa-laptop"></i> Computer programming
-- C++ 11/14: 10y., main development language since 2013. Good knowledge of Boost, Eigen, OpenCV libraries, (modern) CMake, Conan package manager
+- C++ 11/14/17: >10y., main development language since 2013. Good knowledge of PyTorch, Torch-TensorRT, (modern) CMake, Conan package manager
 - Python: >5y. NumPy, Scipy, PyTorch and Scikit-learn libraries
 
 ### <i class="fa fa-commenting-o"></i> Languages
@@ -113,11 +115,13 @@ Reimplementation of a multiview stereo pipeline leveraging Deep learning with Py
 Conservatoire de Fribourg, Switzerland
 
 - Chamber music _2009 to present_{: style="float: right"}
-	+ Violinist of the ["Chromatique" piano trio][Chromatique]{:target="_blank"}. We perform public concerts in the french speaking part of Switzerland, playing the classical and romantic repertoire.
-	+ Chamber music master classes in Blonay with amongst others: [Paul Cocker][PaulCocker]{:target="_blank"}, Joel Marosi or the [Trio Lenitas][Lenitas]{:target="_blank"}.
-- Orchestra musician _2012 to 2015_{: style="float: right"}
-	+ Violinist in the [Lausanne symphonic university orchestra][OSUL]{:target="_blank"}. The orchestra gives 3 concerts per year and plays the romantic and modern repertoire for large symphonic orchestra.
-}
+	+ Violinist of the ["Chromatique" piano trio][Chromatique]{:target="_blank"} from 2011 to 2015. We performed public concerts in the french speaking part of Switzerland, playing the classical and romantic repertoire.
+	+ Chamber music master classes in Switzerland and Germany with amongst others: the Mandelring quartet, [Paul Cocker][PaulCocker]{:target="_blank"}, Joel Marosi or the [Trio Lenitas][Lenitas]{:target="_blank"}.
+- Sailing _2013 to present_{: style="float: right"}
+	+ Club regatta on Surprise from 2015 to 2017, in Lausanne.
+	+ Sailing regularly on Swiss lakes and the Mediterranean Sea.
+- Chess _2024 to present_{: style="float: right"}
+	+ Club player in Fribourg CE.
 
 [EPFL]: https://www.epfl.ch
 [SAE]: https://www.sae.edu
@@ -131,4 +135,3 @@ Conservatoire de Fribourg, Switzerland
 [Chromatique]: https://www.facebook.com/trio.chromatique/
 [PaulCocker]: https://fr.wikipedia.org/wiki/Paul_Coker
 [Lenitas]: http://www.triolenitas.com
-[OSUL]: http://www2.unil.ch/osul/

@@ -6,7 +6,7 @@ layout: default
 
 ![][photo]{:height="300px",width="225px"}
 
-I am a senior software engineer in the Deep Learning team at [Cognex]().
+I am a principal software engineer in the Deep Learning team at [Cognex](https://www.cognex.com){:target="_blank"}.
 
 I obtained a PhD in Electrical engineering in the [Signal Processing Lab (LTS5)][LTS5]{:target="_blank"} at [Ecole Polytechnique Fédérale de Lausanne (EPFL)][EPFL]{:target="_blank"} in 2017.
 In my thesis, I was focusing on applications of 2D and 3D automatic facial image analysis and face modeling for medical diagnosis.
